@@ -1,0 +1,7 @@
+FROM python:3.8
+LABEL maintainer="ds21m026"
+EXPOSE 8501:8501
+COPY . /app
+WORKDIR /app
+RUN pip install -r req_streamlit.txt
+CMD streamlit run streamlit.py --server.port=8501
