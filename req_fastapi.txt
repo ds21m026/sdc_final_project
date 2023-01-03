@@ -3,5 +3,5 @@ uvicorn
 pydantic
 numpy
 pandas
-pickle
+#pickle
 RandomForestClassifier
