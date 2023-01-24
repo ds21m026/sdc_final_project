@@ -10,6 +10,27 @@
 Für das Projekt wurden einige Milestones definiert, diese sind im Repository unter Issues --> Milestones abgebildet und dokumentiert.
 
 ----------------------------------------
+### Installation/Verwendung
+
+Das Dashboard samt ML Modell kann Lokal oder mittels Docker Container verwendet werden.
+
+- Lokal
+
+Um das Dashboard lokal laufen zu lassen, ist nichts weiter nötig als das Github repository zu klonen. Danach kann man das Dashboard starten mittels:
+
+`streamlit run streamlit.py`
+
+Die FastAPI sollte in einem neuen Terminal mittels:
+
+`uvicorn api:api --reload`
+
+gestartet werden. Alternativ ist es auch möglich den Docker Container von Dockerhub zu holen und mit:
+
+`docker run`
+
+zu starten.
+
+----------------------------------------
 ### Details zur Umsetzung:
 
 ### Basis: 
@@ -45,6 +66,8 @@ Das Balkendiagramm zeigt die Befüllung der Rettungsboote an. Es ist in chronolo
 3. Density Plots
 
 Auf diesen Plots ist die Verteilung der Altersklassen nach Passagierklasse dargestellt. Jeweils ein Plot steht für eine Passagierklasse. In heller Farbe ist die Gesamtanzahl dargestellt, in dunkler der Anteil and Überlebenden. 
+
+----------------------------------------
 
 ### REST API:
 Um die Daten aus dem Frontend an das ML Modell übergeben zu können, wird eine FastAPI als REST-Schnittstelle verwendet.
