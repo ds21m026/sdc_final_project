@@ -1,0 +1,1285 @@
+Column,Pclass,Sex,Age,SibSp,Parch,Country,Boarded,Lifeboat,survived
+0,3,male,22,1,0,United Kingdom,Southampton,,0
+1,1,female,38,1,0,United States of America,Cherbourg,4,1
+2,3,female,26,0,0,Finland,Southampton,14,1
+3,1,female,35,1,0,United States of America,Southampton,D,1
+4,3,male,35,0,0,United Kingdom,Southampton,,0
+5,3,male,,0,0,Ireland,Queenstown,,0
+6,1,male,54,0,0,United States of America,Southampton,,0
+7,3,male,2,3,1,Sweden,Southampton,,0
+8,3,female,27,0,2,United States of America,Southampton,15,1
+9,2,female,14,1,0,Lebanon,Cherbourg,,1
+10,3,female,4,1,1,Sweden,Southampton,13,1
+11,1,female,58,0,0,United States of America,Southampton,8,1
+12,3,male,20,0,0,United Kingdom,Southampton,,0
+13,3,male,39,1,5,Sweden,Southampton,,0
+14,3,female,14,0,0,Sweden,Southampton,,0
+15,2,female,55,0,0,United Kingdom,Southampton,13,1
+16,3,male,2,4,1,Ireland,Queenstown,,0
+17,2,male,,0,0,United Kingdom,Southampton,14,1
+18,3,female,31,1,0,Belgium,Southampton,,0
+19,3,female,,0,0,Lebanon,Cherbourg,C,1
+20,2,male,35,0,0,United Kingdom,Southampton,,0
+21,2,male,34,0,0,United Kingdom,Southampton,13,1
+22,3,female,15,0,0,Ireland,Queenstown,13,1
+23,1,male,28,0,0,United States of America,Southampton,7,1
+24,3,female,8,3,1,Sweden,Southampton,,0
+25,3,female,38,1,5,Sweden,Southampton,15,1
+26,3,male,,0,0,Lebanon,Cherbourg,,0
+27,1,male,19,3,2,Canada,Southampton,,0
+28,3,female,,0,0,Ireland,Queenstown,,1
+29,3,male,,0,0,Bulgaria,Southampton,,0
+30,1,male,40,0,0,Mexico,Cherbourg,,0
+31,1,female,,1,0,United States of America,Cherbourg,6,1
+32,3,female,,0,0,Ireland,Queenstown,13,1
+33,2,male,66,0,0,United Kingdom,Southampton,,0
+34,1,male,28,1,0,United States of America,Cherbourg,,0
+35,1,male,42,1,0,United States of America,Southampton,,0
+36,3,male,,0,0,Lebanon,Cherbourg,15,1
+37,3,male,21,0,0,United Kingdom,Southampton,,0
+38,3,female,18,2,0,Belgium,Southampton,,0
+39,3,female,14,1,0,Lebanon,Cherbourg,C,1
+40,3,female,40,1,0,Sweden,Southampton,,0
+41,2,female,27,1,0,United Kingdom,Southampton,,0
+42,3,male,,0,0,Bulgaria,Cherbourg,,0
+43,2,female,3,1,2,France,Cherbourg,14,1
+44,3,female,19,0,0,Ireland,Queenstown,C,1
+45,3,male,,0,0,Wales,Southampton,,0
+46,3,male,,1,0,Ireland,Queenstown,,0
+47,3,female,,0,0,Ireland,Queenstown,D,1
+48,3,male,,2,0,Lebanon,Cherbourg,,0
+49,3,female,18,1,0,Switzerland,Southampton,,0
+50,3,male,7,4,1,Finland,Southampton,,0
+51,3,male,21,0,0,United Kingdom,Southampton,,0
+52,1,female,49,1,0,United States of America,Cherbourg,3,1
+53,2,female,29,1,0,United Kingdom,Southampton,16,1
+54,1,male,65,0,1,United States of America,Southampton,,0
+55,1,male,,0,0,United Kingdom,Southampton,D,1
+56,2,female,21,0,0,United Kingdom,Southampton,12,1
+57,3,male,28,0,0,Lebanon,Cherbourg,,0
+58,2,female,5,1,2,United Kingdom,Southampton,10,1
+59,3,male,11,5,2,United Kingdom,Southampton,,0
+60,3,male,22,0,0,Turkey,Cherbourg,,0
+61,1,female,38,0,0,United States of America,Southampton,6,1
+62,1,male,45,1,0,United States of America,Southampton,,0
+63,3,male,4,3,2,Sweden,Southampton,,0
+64,1,male,,0,0,United States of America,Cherbourg,,0
+65,3,male,,1,1,Lebanon,Cherbourg,C,1
+66,2,female,29,0,0,United States of America,Southampton,11,1
+67,3,male,19,0,0,United Kingdom,Southampton,,0
+68,3,female,17,4,2,Finland,Southampton,D,1
+69,3,male,26,2,0,Switzerland,Southampton,,0
+70,2,male,32,0,0,United Kingdom,Southampton,,0
+71,3,female,16,5,2,United Kingdom,Southampton,,0
+72,2,male,21,0,0,United Kingdom,Southampton,,0
+73,3,male,26,1,0,Greece,Cherbourg,,0
+74,3,male,32,0,0,China,Southampton,C,1
+75,3,male,25,0,0,Norway,Southampton,,0
+76,3,male,,0,0,Bulgaria,Southampton,,0
+77,3,male,,0,0,United Kingdom,Southampton,,0
+78,2,male,1,0,2,Thailand,Southampton,13,1
+79,3,female,30,0,0,United States of America,Southampton,13,1
+80,3,male,22,0,0,Belgium,Southampton,,0
+81,3,male,29,0,0,Belgium,Southampton,11,1
+82,3,female,,0,0,Ireland,Queenstown,13,1
+83,1,male,28,0,0,Uruguay,Southampton,,0
+84,2,female,17,0,0,United Kingdom,Southampton,,1
+85,3,female,33,3,0,Finland,Southampton,D,1
+86,3,male,16,1,3,United Kingdom,Southampton,,0
+87,3,male,,0,0,United Kingdom,Southampton,,0
+88,1,female,23,3,2,Canada,Southampton,10,1
+89,3,male,24,0,0,Italy,Southampton,,0
+90,3,male,29,0,0,United Kingdom,Southampton,,0
+91,3,male,20,0,0,Sweden,Southampton,,0
+92,1,male,46,1,0,United States of America,Southampton,,0
+93,3,male,26,1,2,United Kingdom,Southampton,,0
+94,3,male,59,0,0,United Kingdom,Southampton,,0
+95,3,male,,0,0,United Kingdom,Southampton,,0
+96,1,male,71,0,0,United States of America,Cherbourg,,0
+97,1,male,23,0,1,United States of America,Cherbourg,7,1
+98,2,female,34,0,1,United Kingdom,Southampton,,1
+99,2,male,34,1,0,Russia,Southampton,,0
+100,3,female,28,0,0,Croatia,Southampton,,0
+101,3,male,,0,0,Bulgaria,Southampton,,0
+102,1,male,21,0,1,United States of America,Southampton,,0
+103,3,male,33,0,0,Sweden,Southampton,,0
+104,3,male,37,2,0,Finland,Southampton,,0
+105,3,male,28,0,0,Bulgaria,Southampton,,0
+106,3,female,21,0,0,Norway,Southampton,C,1
+107,3,male,,0,0,Norway,Southampton,B,1
+108,3,male,38,0,0,Bosnia,Southampton,,0
+109,3,female,,1,0,Ireland,Queenstown,16,1
+110,1,male,47,0,0,United States of America,Southampton,,0
+111,3,female,14,1,0,Syria,Cherbourg,,0
+112,3,male,22,0,0,United Kingdom,Southampton,,0
+113,3,female,20,1,0,Finland,Southampton,,0
+114,3,female,17,0,0,Lebanon,Cherbourg,,0
+115,3,male,21,0,0,Finland,Southampton,,0
+116,3,male,70,0,0,Ireland,Queenstown,,0
+117,2,male,29,1,0,United Kingdom,Southampton,,0
+118,1,male,24,0,1,Canada,Cherbourg,,0
+119,3,female,2,4,2,Sweden,Southampton,,0
+120,2,male,21,2,0,United Kingdom,Southampton,,0
+121,3,male,,0,0,United Kingdom,Southampton,,0
+122,2,male,32,1,0,Lebanon,Cherbourg,,0
+123,2,female,32,0,0,United Kingdom,Southampton,12,1
+124,1,male,54,0,1,United States of America,Southampton,,0
+125,3,male,12,1,0,Lebanon,Cherbourg,C,1
+126,3,male,,0,0,Ireland,Queenstown,,0
+127,3,male,24,0,0,Norway,Southampton,13,1
+128,3,female,,1,1,Syria,Cherbourg,C,1
+129,3,male,45,0,0,United States of America,Southampton,,0
+130,3,male,33,0,0,Croatia,Cherbourg,,0
+131,3,male,20,0,0,Portugal,Southampton,,0
+132,3,female,47,1,0,United Kingdom,Southampton,,0
+133,2,female,29,1,0,United Kingdom,Southampton,10,1
+134,2,male,25,0,0,United Kingdom,Southampton,,0
+135,2,male,23,0,0,France,Cherbourg,,0
+136,1,female,19,0,2,United States of America,Southampton,5,1
+137,1,male,37,1,0,United States of America,Southampton,,0
+138,3,male,16,0,0,Sweden,Southampton,,0
+139,1,male,24,0,0,France,Cherbourg,,0
+140,3,female,,0,2,Lebanon,Cherbourg,,0
+141,3,female,22,0,0,Sweden,Southampton,13,1
+142,3,female,24,1,0,Finland,Southampton,15,1
+143,3,male,19,0,0,Ireland,Queenstown,,0
+144,2,male,18,0,0,Argentina,Southampton,,0
+145,2,male,19,1,1,United Kingdom,Southampton,,0
+146,3,male,27,0,0,Sweden,Southampton,A,1
+147,3,female,9,2,2,United Kingdom,Southampton,,0
+148,2,male,36,0,2,France,Southampton,,0
+149,2,male,42,0,0,United Kingdom,Southampton,,0
+150,2,male,51,0,0,United States of America,Southampton,,0
+151,1,female,22,1,0,United Kingdom,Southampton,8,1
+152,3,male,55,0,0,United Kingdom,Southampton,,0
+153,3,male,40,0,2,United Kingdom,Southampton,,0
+154,3,male,,0,0,Norway,Southampton,,0
+155,1,male,51,0,1,Switzerland,Cherbourg,,0
+156,3,female,16,0,0,Ireland,Queenstown,16,1
+157,3,male,30,0,0,United Kingdom,Southampton,,0
+158,3,male,,0,0,Croatia,Southampton,,0
+159,3,male,,8,2,United Kingdom,Southampton,,0
+160,3,male,44,0,1,United Kingdom,Southampton,,0
+161,2,female,40,0,0,United Kingdom,Southampton,9,1
+162,3,male,26,0,0,Sweden,Southampton,,0
+163,3,male,17,0,0,Croatia,Southampton,,0
+164,3,male,1,4,1,Finland,Southampton,,0
+165,3,male,9,0,2,United Kingdom,Southampton,C,1
+166,1,female,,0,1,United Kingdom,Southampton,6,1
+167,3,female,45,1,4,Sweden,Southampton,,0
+168,1,male,,0,0,United States of America,Cherbourg,,0
+169,3,male,28,0,0,China,Southampton,,0
+170,1,male,61,0,0,United States of America,Belfast,,0
+171,3,male,4,4,1,Ireland,Queenstown,,0
+172,3,female,1,1,1,United States of America,Southampton,15,1
+173,3,male,21,0,0,United States of America,Southampton,,0
+174,1,male,56,0,0,France,Cherbourg,,0
+175,3,male,18,1,1,Sweden,Southampton,,0
+176,3,male,,3,1,France,Southampton,,0
+177,1,female,50,0,0,United States of America,Cherbourg,,0
+178,2,male,30,0,0,United States of America,Southampton,,0
+179,3,male,36,0,0,United States of America,Southampton,,0
+180,3,female,,8,2,United Kingdom,Southampton,,0
+181,2,male,,0,0,France,Cherbourg,,0
+182,3,male,9,4,2,Sweden,Southampton,,0
+183,2,male,1,2,1,India,Southampton,11,1
+184,3,female,4,0,2,Switzerland,Southampton,2,1
+185,1,male,,0,0,United States of America,Southampton,,0
+186,3,female,,1,0,Ireland,Queenstown,,1
+187,1,male,45,0,0,United States of America,Southampton,9,1
+188,3,male,40,1,1,Ireland,Queenstown,,0
+189,3,male,36,0,0,Croatia,Southampton,,0
+190,2,female,32,0,0,United States of America,Southampton,9,1
+191,2,male,19,0,0,United Kingdom,Southampton,,0
+192,3,female,19,1,0,Denmark,Southampton,16,1
+193,2,male,3,1,1,France,Southampton,D,1
+194,1,female,44,0,0,United States of America,Cherbourg,6,1
+195,1,female,58,0,0,United States of America,Cherbourg,6,1
+196,3,male,,0,0,Ireland,Queenstown,,0
+197,3,male,42,0,1,Norway,Southampton,,0
+198,3,female,,0,0,Ireland,Queenstown,15,1
+199,2,female,24,0,0,France,Southampton,,0
+200,3,male,28,0,0,Belgium,Southampton,,0
+201,3,male,,8,2,United Kingdom,Southampton,,0
+202,3,male,34,0,0,Finland,Southampton,,0
+203,3,male,45,0,0,Lebanon,Cherbourg,,0
+204,3,male,18,0,0,United Kingdom,Southampton,12,1
+205,3,female,2,0,1,United States of America,Southampton,,0
+206,3,male,32,1,0,Finland,Southampton,,0
+207,3,male,26,0,0,United States of America,Cherbourg,15,1
+208,3,female,16,0,0,Ireland,Queenstown,16,1
+209,1,male,40,0,0,United States of America,Cherbourg,7,1
+210,3,male,24,0,0,Argentina,Southampton,,0
+211,2,female,35,0,0,United Kingdom,Southampton,14,1
+212,3,male,22,0,0,United Kingdom,Southampton,,0
+213,2,male,30,0,0,Denmark,Southampton,,0
+214,3,male,,1,0,Ireland,Queenstown,,0
+215,1,female,31,1,0,United States of America,Cherbourg,6,1
+216,3,female,27,0,0,Finland,Southampton,,1
+217,2,male,42,1,0,United Kingdom,Southampton,,0
+218,1,female,32,0,0,United States of America,Cherbourg,8,1
+219,2,male,30,0,0,United Kingdom,Southampton,,0
+220,3,male,16,0,0,United Kingdom,Southampton,B,1
+221,2,male,27,0,0,United States of America,Southampton,,0
+222,3,male,51,0,0,United Kingdom,Southampton,,0
+223,3,male,,0,0,Bulgaria,Southampton,,0
+224,1,male,38,1,0,United States of America,Southampton,D,1
+225,3,male,22,0,0,Finland,Southampton,,0
+226,2,male,19,0,0,United Kingdom,Southampton,B,1
+227,3,male,20,0,0,United Kingdom,Southampton,,0
+228,2,male,18,0,0,Norway,Southampton,,0
+229,3,female,,3,1,France,Southampton,,0
+230,1,female,35,1,0,United States of America,Southampton,D,1
+231,3,male,29,0,0,Sweden,Southampton,,0
+232,2,male,59,0,0,Sweden,Southampton,10,0
+233,3,female,5,4,2,Sweden,Southampton,15,1
+234,2,male,24,0,0,United Kingdom,Southampton,,0
+235,3,female,,0,0,United Kingdom,Southampton,,0
+236,2,male,44,1,0,United Kingdom,Southampton,,0
+237,2,female,8,0,2,United Kingdom,Southampton,14,1
+238,2,male,19,0,0,United Kingdom,Southampton,,0
+239,2,male,33,0,0,United States of America,Southampton,,0
+240,3,female,,1,0,Syria,Cherbourg,,0
+241,3,female,,1,0,Ireland,Queenstown,16,1
+242,2,male,29,0,0,United Kingdom,Southampton,,0
+243,3,male,22,0,0,Finland,Southampton,,0
+244,3,male,30,0,0,Canada,Cherbourg,,0
+245,1,male,44,2,0,United States of America,Southampton,,0
+246,3,female,25,0,0,Sweden,Southampton,,0
+247,2,female,24,0,2,United States of America,Southampton,4,1
+248,1,male,37,1,1,United States of America,Southampton,5,1
+249,2,male,54,1,0,United Kingdom,Southampton,,0
+250,3,male,,0,0,Wales,Southampton,,0
+251,3,female,29,1,1,United States of America,Southampton,,0
+252,1,male,62,0,0,United Kingdom,Southampton,,0
+253,3,male,30,1,0,United States of America,Southampton,,0
+254,3,female,41,0,2,Finland,Southampton,,0
+255,3,female,29,0,2,Lebanon,Cherbourg,C,1
+256,1,female,,0,0,United States of America,Cherbourg,D,1
+257,1,female,30,0,0,United Kingdom,Southampton,8,1
+258,1,female,35,0,0,United States of America,Cherbourg,3,1
+259,2,female,50,0,1,United States of America,Southampton,12,1
+260,3,male,,0,0,Ireland,Queenstown,,0
+261,3,male,3,4,2,Sweden,Southampton,15,1
+262,1,male,52,1,1,United States of America,Southampton,,0
+263,1,male,40,0,0,United Kingdom,Southampton,,0
+264,3,female,,0,0,Ireland,Queenstown,,0
+265,2,male,36,0,0,United Kingdom,Southampton,,0
+266,3,male,16,4,1,Finland,Southampton,,0
+267,3,male,25,1,0,Sweden,Southampton,15,1
+268,1,female,58,0,1,United States of America,Southampton,3,1
+269,1,female,35,0,0,United States of America,Cherbourg,8,1
+270,1,male,,0,0,United States of America,Southampton,,0
+271,3,male,25,0,0,Sweden,Southampton,15,1
+272,2,female,41,0,1,United Kingdom,Southampton,14,1
+273,1,male,37,0,1,United States of America,Cherbourg,,0
+274,3,female,,0,0,Ireland,Queenstown,16,1
+275,1,female,63,1,0,United States of America,Cherbourg,10,1
+276,3,female,45,0,0,Sweden,Southampton,,0
+277,2,male,,0,0,Ireland,Belfast,,0
+278,3,male,7,4,1,Ireland,Queenstown,,0
+279,3,female,35,1,1,United States of America,Southampton,A,1
+280,3,male,65,0,0,Ireland,Queenstown,,0
+281,3,male,28,0,0,Sweden,Southampton,,0
+282,3,male,16,0,0,Belgium,Southampton,,0
+283,3,male,19,0,0,United Kingdom,Southampton,B,1
+284,1,male,,0,0,United Kingdom,Southampton,,0
+285,3,male,33,0,0,Croatia,Cherbourg,,0
+286,3,male,30,0,0,Belgium,Southampton,11,1
+287,3,male,22,0,0,Bulgaria,Southampton,,0
+288,2,male,42,0,0,Japan,Southampton,10,1
+289,3,female,22,0,0,Ireland,Queenstown,13,1
+289,3,female,22,0,0,Ireland,Queenstown,13,0
+290,1,female,26,0,0,United Kingdom,Southampton,6,1
+291,1,female,19,1,0,United States of America,Cherbourg,7,1
+292,2,male,36,0,0,Canada,Cherbourg,,0
+293,3,female,24,0,0,Switzerland,Southampton,,0
+294,3,male,24,0,0,Bulgaria,Southampton,,0
+295,1,male,,0,0,United States of America,Cherbourg,,0
+296,3,male,23,0,0,Syria,Cherbourg,,0
+297,1,female,2,1,2,Canada,Southampton,,0
+298,1,male,,0,0,United Kingdom,Southampton,3,1
+299,1,female,50,0,1,Canada,Cherbourg,6,1
+300,3,female,,0,0,Ireland,Queenstown,16,1
+301,3,male,,2,0,Ireland,Queenstown,16,1
+302,3,male,19,0,0,United States of America,Southampton,,0
+303,2,female,,0,0,Ireland,Queenstown,10,1
+304,3,male,,0,0,United Kingdom,Southampton,,0
+305,1,male,1,1,2,Canada,Southampton,11,1
+306,1,female,,0,0,United States of America,Cherbourg,4,1
+307,1,female,17,1,0,Spain,Cherbourg,8,1
+308,2,male,30,1,0,Russia,Cherbourg,,0
+309,1,female,30,0,0,United Kingdom,Cherbourg,1,1
+310,1,female,24,0,0,United States of America,Cherbourg,7,1
+311,1,female,18,2,2,United States of America,Cherbourg,4,1
+312,2,female,26,1,1,United States of America,Southampton,,0
+313,3,male,28,0,0,Croatia,Southampton,,0
+314,2,male,43,1,1,United Kingdom,Southampton,,0
+315,3,female,26,0,0,Sweden,Southampton,13,1
+316,2,female,24,1,0,Russia,Southampton,12,1
+317,2,male,54,0,0,United States of America,Southampton,,0
+318,1,female,31,0,2,United States of America,Southampton,8,1
+319,1,female,40,1,1,United States of America,Cherbourg,3,1
+320,3,male,22,0,0,United Kingdom,Southampton,,0
+321,3,male,27,0,0,Bulgaria,Southampton,,0
+322,2,female,30,0,0,Canada,Queenstown,13,1
+323,2,female,22,1,1,Thailand,Southampton,13,1
+324,3,male,,8,2,United Kingdom,Southampton,,0
+325,1,female,36,0,0,United States of America,Cherbourg,8,1
+326,3,male,61,0,0,Norway,Southampton,,0
+327,2,female,36,0,0,United Kingdom,Southampton,10,1
+328,3,female,31,1,1,United Kingdom,Southampton,C,1
+329,1,female,16,0,1,United States of America,Cherbourg,4,1
+330,3,female,,2,0,Ireland,Queenstown,16,1
+331,1,male,45,0,0,United Kingdom,Southampton,,0
+332,1,male,38,0,1,Canada,Southampton,,0
+333,3,male,16,2,0,Belgium,Southampton,,0
+334,1,female,,1,0,United Kingdom,Southampton,5,1
+335,3,male,,0,0,Bulgaria,Southampton,,0
+336,1,male,29,1,0,United Kingdom,Southampton,,0
+337,1,female,41,0,0,United States of America,Cherbourg,3,1
+338,3,male,45,0,0,Australia,Southampton,15,1
+339,1,male,45,0,0,United States of America,Southampton,,0
+340,2,male,2,1,1,France,Southampton,D,1
+341,1,female,24,3,2,Canada,Southampton,10,1
+342,2,male,28,0,0,Finland,Southampton,,0
+343,2,male,25,0,0,United Kingdom,Southampton,,0
+344,2,male,36,0,0,United States of America,Southampton,,0
+345,2,female,24,0,0,United Kingdom,Southampton,11,1
+346,2,female,40,0,0,United Kingdom,Southampton,9,1
+348,3,male,3,1,1,United Kingdom,Southampton,2,1
+349,3,male,42,0,0,Croatia,Southampton,,0
+350,3,male,23,0,0,Sweden,Southampton,,0
+351,1,male,,0,0,United Kingdom,Southampton,,0
+352,3,male,15,1,1,Lebanon,Cherbourg,,0
+353,3,male,25,1,0,Switzerland,Southampton,,0
+354,3,male,,0,0,Lebanon,Cherbourg,,0
+355,3,male,28,0,0,Belgium,Southampton,,0
+356,1,female,22,0,1,United Kingdom,Southampton,6,1
+357,2,female,38,0,0,United Kingdom,Southampton,,0
+358,3,female,,0,0,Ireland,Queenstown,13,1
+359,3,female,,0,0,Ireland,Queenstown,16,1
+360,3,male,40,1,4,Sweden,Southampton,,0
+361,2,male,29,1,0,Italy,Cherbourg,,0
+362,3,female,45,0,1,Lebanon,Cherbourg,,0
+363,3,male,35,0,0,Argentina,Southampton,,0
+364,3,male,,1,0,Ireland,Queenstown,,0
+365,3,male,30,0,0,Sweden,Southampton,,0
+366,1,female,60,1,0,United States of America,Cherbourg,5,1
+367,3,female,,0,0,Lebanon,Cherbourg,,1
+368,3,female,,0,0,Ireland,Queenstown,D,1
+369,1,female,24,0,0,France,Cherbourg,9,1
+370,1,male,25,1,0,United States of America,Cherbourg,5,1
+371,3,male,18,1,0,Finland,Southampton,,0
+372,3,male,19,0,0,United Kingdom,Southampton,,0
+373,1,male,22,0,0,United States of America,Cherbourg,,0
+374,3,female,3,3,1,Sweden,Southampton,,0
+375,1,female,,1,0,United States of America,Cherbourg,6,1
+376,3,female,22,0,0,Sweden,Southampton,13,1
+377,1,male,27,0,2,United States of America,Southampton,,0
+378,3,male,20,0,0,Lebanon,Cherbourg,,0
+379,3,male,19,0,0,Sweden,Southampton,,0
+380,1,female,42,0,0,United States of America,Cherbourg,4,1
+381,3,female,1,0,2,Lebanon,Cherbourg,C,1
+382,3,male,32,0,0,Finland,Southampton,,0
+383,1,female,35,1,0,United States of America,Southampton,8,1
+384,3,male,,0,0,Bulgaria,Southampton,,0
+385,2,male,18,0,0,United Kingdom,Southampton,,0
+386,3,male,1,5,2,United Kingdom,Southampton,,0
+387,2,female,36,0,0,United Kingdom,Southampton,9,1
+388,3,male,,0,0,Ireland,Queenstown,,0
+389,2,female,17,0,0,Switzerland,Cherbourg,12,1
+390,1,male,36,1,2,United States of America,Southampton,C,1
+391,3,male,21,0,0,Sweden,Southampton,A,1
+392,3,male,28,2,0,Finland,Southampton,,0
+393,1,female,23,1,0,United States of America,Cherbourg,6,1
+394,3,female,24,0,2,Sweden,Southampton,13,1
+395,3,male,22,0,0,Sweden,Southampton,,0
+396,3,female,31,0,0,Sweden,Southampton,,0
+397,2,male,46,0,0,United Kingdom,Southampton,,0
+398,2,male,23,0,0,Canada,Southampton,,0
+399,2,female,28,0,0,United States of America,Southampton,9,1
+400,3,male,39,0,0,Finland,Southampton,9,1
+401,3,male,26,0,0,United Kingdom,Southampton,,0
+402,3,female,21,1,0,Finland,Southampton,,0
+403,3,male,28,1,0,Finland,Southampton,,0
+404,3,female,20,0,0,Croatia,Southampton,,0
+405,2,male,34,1,0,United Kingdom,Southampton,,0
+406,3,male,51,0,0,Sweden,Southampton,,0
+407,2,male,3,1,1,United Kingdom,Southampton,4,1
+408,3,male,21,0,0,Norway,Southampton,,0
+409,3,female,,3,1,France,Southampton,,0
+410,3,male,,0,0,Bulgaria,Southampton,,0
+411,3,male,,0,0,Ireland,Queenstown,,0
+412,1,female,33,1,0,United States of America,Southampton,14,1
+413,2,male,,0,0,Ireland,Belfast,,0
+414,3,male,44,0,0,Finland,Southampton,15,1
+415,3,female,,0,0,Wales,Southampton,,0
+416,2,female,34,1,1,United States of America,Southampton,10,1
+417,2,female,18,0,2,Finland,Southampton,16,1
+418,2,male,30,0,0,United Kingdom,Southampton,,0
+419,3,female,10,0,2,Belgium,Southampton,,0
+420,3,male,,0,0,Bulgaria,Cherbourg,,0
+421,3,male,21,0,0,Ireland,Queenstown,,0
+422,3,male,29,0,0,Germany,Southampton,,0
+423,3,female,28,1,1,Sweden,Southampton,,0
+424,3,male,18,1,1,Finland,Southampton,,0
+425,3,male,,0,0,United Kingdom,Southampton,,0
+426,2,female,28,1,0,United Kingdom,Southampton,14,1
+427,2,female,19,0,0,United Kingdom,Southampton,11,1
+428,3,male,,0,0,Ireland,Queenstown,,0
+429,3,male,32,0,0,Poland,Southampton,9,1
+430,1,male,28,0,0,Sweden,Southampton,D,1
+431,3,female,,1,0,United Kingdom,Southampton,10,1
+432,2,female,42,1,0,United Kingdom,Southampton,14,1
+433,3,male,17,0,0,Finland,Southampton,,0
+434,1,male,50,1,0,United States of America,Cherbourg,,0
+435,1,female,14,1,2,United States of America,Southampton,4,1
+436,3,female,21,2,2,United Kingdom,Southampton,,0
+437,2,female,24,2,3,United Kingdom,Southampton,4,1
+438,1,male,64,1,4,Canada,Southampton,,0
+439,2,male,31,0,0,Sweden,Southampton,,0
+440,2,female,45,1,1,United Kingdom,Southampton,14,1
+441,3,male,20,0,0,Belgium,Southampton,,0
+442,3,male,25,1,0,Sweden,Southampton,,0
+443,2,female,28,0,0,Spain,Southampton,9,1
+444,3,male,,0,0,Norway,Southampton,13,1
+445,1,male,4,0,2,United States of America,Southampton,5,1
+446,2,female,13,0,1,United Kingdom,Southampton,14,1
+447,1,male,34,0,0,United States of America,Southampton,7,1
+448,3,female,5,2,1,Lebanon,Cherbourg,C,1
+449,1,male,52,0,0,Canada,Southampton,6,1
+450,2,male,36,1,2,United Kingdom,Southampton,,0
+451,3,male,,1,0,Norway,Southampton,,0
+452,1,male,30,0,0,United States of America,Southampton,,0
+453,1,male,49,1,0,France,Cherbourg,5,1
+454,3,male,,0,0,United Kingdom,Southampton,,0
+455,3,male,29,0,0,Croatia,Cherbourg,15,1
+456,1,male,65,0,0,United States of America,Cherbourg,,0
+457,1,female,,1,0,United States of America,Southampton,8,1
+458,2,female,50,0,0,United States of America,Southampton,9,1
+459,3,male,,0,0,Ireland,Queenstown,,0
+460,1,male,48,0,0,United States of America,Southampton,3,1
+461,3,male,34,0,0,United Kingdom,Southampton,,0
+462,1,male,47,0,0,United Kingdom,Southampton,,0
+463,2,male,48,0,0,Denmark,Southampton,,0
+464,3,male,,0,0,United Kingdom,Southampton,,0
+465,3,male,38,0,0,Portugal,Southampton,,0
+466,2,male,,0,0,Ireland,Belfast,,0
+467,1,male,56,0,0,United Kingdom,Southampton,,0
+468,3,male,,0,0,Ireland,Queenstown,,0
+469,3,female,1,2,1,Lebanon,Cherbourg,C,1
+470,3,male,,0,0,United States of America,Southampton,A,0
+471,3,male,38,0,0,Croatia,Southampton,,0
+472,2,female,33,1,2,United Kingdom,Southampton,10,1
+473,2,female,23,0,0,United States of America,Southampton,11,1
+474,3,female,22,0,0,Finland,Southampton,,0
+475,1,male,,0,0,United States of America,Southampton,,0
+476,2,male,34,1,0,United States of America,Southampton,,0
+477,3,male,29,1,0,United Kingdom,Southampton,,0
+478,3,male,22,0,0,Sweden,Southampton,,0
+479,3,female,2,0,1,Finland,Southampton,15,1
+480,3,male,9,5,2,United Kingdom,Southampton,,0
+481,2,male,,0,0,United Kingdom,Belfast,,0
+482,3,male,50,0,0,United Kingdom,Southampton,,0
+483,3,female,63,0,0,Finland,Southampton,15,1
+484,1,male,25,1,0,United States of America,Cherbourg,7,1
+485,3,female,,3,1,France,Southampton,,0
+486,1,female,35,1,0,United States of America,Southampton,D,1
+487,1,male,58,0,0,United States of America,Cherbourg,,0
+488,3,male,30,0,0,United Kingdom,Southampton,,0
+489,3,male,9,1,1,United Kingdom,Southampton,2,1
+490,3,male,,1,0,Norway,Southampton,,0
+491,3,male,21,0,0,South Africa,Southampton,,0
+492,1,male,55,0,0,Canada,Southampton,,0
+493,1,male,71,0,0,Argentina,Cherbourg,,0
+494,3,male,21,0,0,United Kingdom,Southampton,,0
+495,3,male,,0,0,Lebanon,Cherbourg,,0
+496,1,female,54,1,0,United States of America,Cherbourg,4,1
+497,3,male,,0,0,United Kingdom,Southampton,,0
+498,1,female,25,1,2,Canada,Southampton,,0
+499,3,male,24,0,0,Sweden,Southampton,,0
+500,3,male,17,0,0,Croatia,Southampton,,0
+501,3,female,21,0,0,Ireland,Queenstown,,0
+502,3,female,,0,0,Ireland,Queenstown,,0
+503,3,female,37,0,0,Finland,Southampton,,0
+504,1,female,16,0,0,Canada,Southampton,8,1
+505,1,male,18,1,0,Spain,Cherbourg,,0
+506,2,female,33,0,2,United Kingdom,Southampton,11,1
+507,1,male,,0,0,United States of America,Southampton,9,1
+508,3,male,28,0,0,Norway,Southampton,,0
+509,3,male,26,0,0,China,Southampton,14,1
+510,3,male,29,0,0,Ireland,Queenstown,B,1
+511,3,male,,0,0,United States of America,Southampton,,0
+512,1,male,36,0,0,United States of America,Southampton,7,1
+513,1,female,54,1,0,United States of America,Cherbourg,6,1
+514,3,male,24,0,0,Bulgaria,Southampton,,0
+515,1,male,47,0,0,United States of America,Southampton,,0
+516,2,female,34,0,0,United States of America,Southampton,14,1
+517,3,male,,0,0,Ireland,Queenstown,,0
+518,2,female,36,1,0,United Kingdom,Southampton,11,1
+519,3,male,32,0,0,Croatia,Southampton,,0
+520,1,female,30,0,0,Canada,Southampton,3,1
+521,3,male,22,0,0,Slovenia,Southampton,,0
+522,3,male,,0,0,Lebanon,Cherbourg,,0
+523,1,female,44,0,1,United States of America,Cherbourg,4,1
+524,3,male,,0,0,Lebanon,Cherbourg,,0
+525,3,male,40,0,0,Ireland,Queenstown,,0
+526,2,female,50,0,0,United Kingdom,Southampton,13,1
+527,1,male,,0,0,United States of America,Southampton,,0
+528,3,male,39,0,0,United States of America,Southampton,,0
+529,2,male,23,2,1,United States of America,Southampton,,0
+530,2,female,2,1,1,United Kingdom,Southampton,11,1
+531,3,male,,0,0,Lebanon,Cherbourg,,0
+532,3,male,17,1,1,Lebanon,Cherbourg,,0
+533,3,female,,0,2,Syria,Cherbourg,C,1
+534,3,female,30,0,0,Croatia,Southampton,,0
+535,2,female,7,0,2,United Kingdom,Southampton,14,1
+536,1,male,45,0,0,United States of America,Southampton,,0
+537,1,female,30,0,0,United States of America,Cherbourg,2,1
+538,3,male,,0,0,United Kingdom,Southampton,,0
+539,1,female,22,0,2,Switzerland,Cherbourg,5,1
+540,1,female,36,0,2,United States of America,Southampton,7,1
+541,3,female,9,4,2,Sweden,Southampton,,0
+542,3,female,11,4,2,Sweden,Southampton,,0
+543,2,male,32,1,0,United States of America,Southampton,13,1
+544,1,male,50,1,0,United States of America,Cherbourg,,0
+545,1,male,64,0,0,United Kingdom,Southampton,,0
+546,2,female,19,1,0,United Kingdom,Southampton,13,1
+547,2,male,,0,0,Spain,Cherbourg,9,1
+548,3,male,33,1,1,United Kingdom,Southampton,,0
+549,2,male,8,1,1,United Kingdom,Southampton,14,1
+550,1,male,17,0,2,United States of America,Cherbourg,B,1
+551,2,male,27,0,0,United Kingdom,Southampton,,0
+552,3,male,,0,0,Ireland,Queenstown,,0
+553,3,male,22,0,0,Lebanon,Cherbourg,6,1
+554,3,female,22,0,0,Sweden,Southampton,C,1
+555,1,male,62,0,0,Canada,Southampton,,0
+556,1,female,48,1,0,United Kingdom,Cherbourg,1,1
+558,1,female,39,1,1,United States of America,Southampton,8,1
+559,3,female,36,1,0,United States of America,Southampton,13,1
+560,3,male,,0,0,Ireland,Queenstown,,0
+561,3,male,40,0,0,Bosnia,Southampton,,0
+562,2,male,28,0,0,United Kingdom,Southampton,,0
+563,3,male,,0,0,United Kingdom,Southampton,,0
+564,3,female,,0,0,United Kingdom,Southampton,,0
+565,3,male,24,2,0,United Kingdom,Southampton,,0
+566,3,male,19,0,0,Bulgaria,Southampton,,0
+567,3,female,29,0,4,Sweden,Southampton,,0
+568,3,male,,0,0,Lebanon,Cherbourg,,0
+569,3,male,32,0,0,Sweden,Southampton,15,1
+570,2,male,62,0,0,United Kingdom,Southampton,15,1
+571,1,female,53,2,0,United States of America,Southampton,2,1
+572,1,male,36,0,0,United States of America,Southampton,5,1
+573,3,female,,0,0,Ireland,Queenstown,D,1
+574,3,male,16,0,0,United Kingdom,Southampton,,0
+575,3,male,19,0,0,United Kingdom,Southampton,,0
+576,2,female,34,0,0,United Kingdom,Southampton,12,1
+577,1,female,39,1,0,United States of America,Cherbourg,11,1
+578,3,female,,1,0,Syria,Cherbourg,,0
+579,3,male,32,0,0,Finland,Southampton,15,1
+580,2,female,25,1,1,United Kingdom,Southampton,12,1
+581,1,female,39,1,1,United States of America,Cherbourg,4,1
+582,2,male,54,0,0,United States of America,Southampton,,0
+583,1,male,36,0,0,Canada,Southampton,,0
+585,1,female,18,0,2,United States of America,Southampton,8,1
+586,2,male,47,0,0,United Kingdom,Southampton,,0
+587,1,male,60,1,1,Switzerland,Cherbourg,5,1
+588,3,male,22,0,0,Wales,Southampton,,0
+589,3,male,,0,0,United Kingdom,Southampton,,0
+590,3,male,35,0,0,Finland,Southampton,,0
+591,1,female,52,1,0,France,Cherbourg,4,1
+592,3,male,47,0,0,United Kingdom,Southampton,,0
+593,3,female,,0,2,Ireland,Queenstown,,0
+594,2,male,37,1,0,United Kingdom,Southampton,,0
+595,3,male,36,1,1,Belgium,Southampton,,0
+596,2,female,,0,0,United Kingdom,Southampton,11,1
+597,3,male,49,0,0,United Kingdom,Southampton,,0
+598,3,male,,0,0,Syria,Cherbourg,,0
+599,1,male,49,1,0,United Kingdom,Cherbourg,1,1
+600,2,female,24,2,1,United Kingdom,Southampton,12,1
+601,3,male,,0,0,Bulgaria,Southampton,,0
+602,1,male,,0,0,United States of America,Southampton,,0
+603,3,male,44,0,0,Germany,Southampton,,0
+604,1,male,35,0,0,United States of America,Southampton,15,1
+605,3,male,36,1,0,Sweden,Southampton,A,0
+606,3,male,30,0,0,Croatia,Southampton,,0
+607,1,male,27,0,0,United States of America,Southampton,3,1
+608,2,female,22,1,2,France,Cherbourg,14,1
+609,1,female,40,0,0,United States of America,Southampton,3,1
+610,3,female,39,1,5,Sweden,Southampton,,0
+611,3,male,,0,0,Portugal,Southampton,,0
+612,3,female,,1,0,Ireland,Queenstown,16,1
+613,3,male,,0,0,Ireland,Queenstown,,0
+614,3,male,35,0,0,United Kingdom,Southampton,,0
+615,2,female,24,1,2,United Kingdom,Southampton,9,1
+616,3,male,34,1,1,Sweden,Southampton,,0
+617,3,female,26,1,0,United States of America,Southampton,,0
+618,2,female,4,2,1,India,Southampton,11,1
+619,2,male,26,0,0,United Kingdom,Southampton,,0
+620,3,male,27,1,0,Lebanon,Cherbourg,,0
+621,1,male,42,1,0,United States of America,Southampton,5,1
+622,3,male,20,1,1,Lebanon,Cherbourg,C,1
+623,3,male,21,0,0,Denmark,Southampton,,0
+624,3,male,21,0,0,Wales,Southampton,,0
+625,1,male,61,0,0,United States of America,Southampton,,0
+626,2,male,57,0,0,United Kingdom,Queenstown,,0
+627,1,female,21,0,0,United States of America,Cherbourg,10,1
+628,3,male,26,0,0,Bulgaria,Southampton,,0
+629,3,male,,0,0,Ireland,Queenstown,,0
+630,1,male,80,0,0,United Kingdom,Southampton,B,1
+631,3,male,51,0,0,Sweden,Southampton,,0
+632,1,male,32,0,0,Switzerland,Southampton,3,1
+633,1,male,,0,0,Ireland,Belfast,,0
+634,3,female,9,3,2,Sweden,Southampton,,0
+635,2,female,28,0,0,United Kingdom,Southampton,13,1
+636,3,male,32,0,0,Finland,Southampton,,0
+637,2,male,31,1,1,United Kingdom,Southampton,,0
+638,3,female,41,0,5,Finland,Southampton,,0
+639,3,male,,1,0,United Kingdom,Southampton,,0
+640,3,male,20,0,0,Denmark,Southampton,,0
+641,1,female,24,0,0,France,Cherbourg,9,1
+642,3,female,2,3,2,Sweden,Southampton,,0
+643,3,male,,0,0,China,Southampton,C,1
+644,3,female,1,2,1,Lebanon,Cherbourg,C,1
+645,1,male,48,1,0,United States of America,Cherbourg,3,1
+646,3,male,19,0,0,Croatia,Southampton,,0
+647,1,male,56,0,0,Switzerland,Southampton,3,1
+648,3,male,,0,0,United Kingdom,Southampton,,0
+649,3,female,23,0,0,United Kingdom,Southampton,C,1
+650,3,male,,0,0,Bulgaria,Southampton,,0
+651,2,female,18,0,1,United Kingdom,Southampton,,1
+652,3,male,21,0,0,Norway,Southampton,,0
+653,3,female,,0,0,Ireland,Queenstown,13,1
+654,3,female,18,0,0,Ireland,Queenstown,,0
+655,2,male,24,2,0,United Kingdom,Southampton,,0
+656,3,male,,0,0,Bulgaria,Southampton,,0
+657,3,female,32,1,1,Ireland,Queenstown,,0
+658,2,male,23,0,0,United Kingdom,Southampton,,0
+659,1,male,58,0,2,United States of America,Cherbourg,,0
+660,1,male,50,2,0,United Kingdom,Southampton,5,1
+661,3,male,40,0,0,Lebanon,Cherbourg,,0
+662,1,male,47,0,0,Ireland,Southampton,,0
+663,3,male,36,0,0,Bulgaria,Southampton,,0
+664,3,male,20,1,0,Finland,Southampton,15,1
+665,2,male,32,2,0,United Kingdom,Southampton,,0
+666,2,male,25,0,0,United Kingdom,Southampton,,0
+667,3,male,,0,0,Norway,Southampton,,0
+668,3,male,43,0,0,Estonia,Southampton,,0
+669,1,female,,1,0,United Kingdom,Southampton,5,1
+670,2,female,40,1,1,South Africa,Southampton,14,1
+671,1,male,31,1,0,Canada,Southampton,,0
+672,2,male,70,0,0,United Kingdom,Southampton,,0
+673,2,male,31,0,0,United Kingdom,Southampton,9,1
+674,2,male,,0,0,United Kingdom,Belfast,,0
+675,3,male,18,0,0,Sweden,Southampton,,0
+676,3,male,24,0,0,United Kingdom,Southampton,,0
+677,3,female,18,0,0,Finland,Southampton,15,1
+678,3,female,43,1,6,United Kingdom,Southampton,,0
+679,1,male,36,0,1,United States of America,Cherbourg,3,1
+680,3,female,,0,0,Ireland,Queenstown,,0
+681,1,male,27,0,0,Egypt,Cherbourg,3,1
+682,3,male,20,0,0,Norway,Southampton,,0
+683,3,male,14,5,2,United Kingdom,Southampton,,0
+684,2,male,60,1,1,South Africa,Southampton,,0
+685,2,male,25,1,2,France,Cherbourg,,0
+686,3,male,14,4,1,Finland,Southampton,,0
+687,3,male,19,0,0,Croatia,Southampton,,0
+688,3,male,18,0,0,Sweden,Southampton,,0
+689,1,female,15,0,1,United States of America,Southampton,2,1
+690,1,male,31,1,0,Canada,Southampton,3,1
+691,3,female,4,0,1,Slovenia,Southampton,15,1
+692,3,male,,0,0,China,Southampton,C,1
+693,3,male,25,0,0,Syria,Cherbourg,,0
+694,1,male,60,0,0,United States of America,Southampton,,0
+695,2,male,52,0,0,United States of America,Southampton,,0
+696,3,male,44,0,0,Ireland,Queenstown,,0
+696,3,male,44,0,0,Ireland,Queenstown,,0
+697,3,female,,0,0,Ireland,Queenstown,16,1
+698,1,male,49,1,1,United States of America,Cherbourg,,0
+699,3,male,42,0,0,Norway,Southampton,,0
+700,1,female,18,1,0,United States of America,Cherbourg,4,1
+701,1,male,35,0,0,United States of America,Southampton,5,1
+702,3,female,18,0,1,Lebanon,Cherbourg,,0
+703,3,male,25,0,0,Ireland,Queenstown,,0
+704,3,male,26,1,0,Denmark,Southampton,,0
+705,2,male,39,0,0,United Kingdom,Southampton,,0
+706,2,female,45,0,0,United Kingdom,Southampton,9,1
+707,1,male,42,0,0,United States of America,Southampton,5,1
+708,1,female,22,0,0,United Kingdom,Southampton,11,1
+709,3,male,,1,1,Lebanon,Cherbourg,C,1
+710,1,female,24,0,0,Belgium,Cherbourg,6,1
+711,1,male,,0,0,United States of America,Southampton,,0
+712,1,male,48,1,0,United Kingdom,Southampton,5,1
+713,3,male,29,0,0,United States of America,Southampton,,0
+714,2,male,52,0,0,United States of America,Southampton,,0
+715,3,male,19,0,0,Norway,Southampton,,0
+716,1,female,38,0,0,United States of America,Cherbourg,4,1
+717,2,female,27,0,0,United Kingdom,Southampton,16,1
+718,3,male,,0,0,Ireland,Queenstown,,0
+719,3,male,33,0,0,United States of America,Southampton,,0
+720,2,female,6,0,1,United Kingdom,Southampton,11,1
+721,3,male,17,1,0,Denmark,Southampton,,0
+722,2,male,34,0,0,Ireland,Southampton,,0
+723,2,male,50,0,0,United Kingdom,Southampton,,0
+724,1,male,27,1,0,United States of America,Southampton,5,1
+725,3,male,20,0,0,Croatia,Southampton,,0
+726,2,female,30,3,0,United States of America,Southampton,12,1
+727,3,female,,0,0,Ireland,Queenstown,16,1
+728,2,male,25,1,0,Sweden,Southampton,,0
+729,3,female,25,1,0,Finland,Southampton,,0
+730,1,female,29,0,0,United States of America,Southampton,2,1
+731,3,male,11,0,0,United States of America,Cherbourg,,0
+732,2,male,,0,0,Ireland,Belfast,,0
+733,2,male,23,0,0,United Kingdom,Southampton,,0
+734,2,male,23,0,0,United Kingdom,Southampton,,0
+735,3,male,28,0,0,Wales,Southampton,,0
+736,3,female,48,1,3,United Kingdom,Southampton,,0
+737,1,male,35,0,0,United States of America,Cherbourg,3,1
+738,3,male,,0,0,Bulgaria,Southampton,,0
+739,3,male,,0,0,Bulgaria,Southampton,,0
+740,1,male,,0,0,United Kingdom,Southampton,3,1
+741,1,male,36,1,0,United Kingdom,Southampton,,0
+742,1,female,21,2,2,United States of America,Cherbourg,4,1
+743,3,male,24,1,0,Ireland,Southampton,,0
+744,3,male,31,0,0,Finland,Southampton,9,1
+745,1,male,70,1,1,United States of America,Southampton,,0
+746,3,male,16,1,1,United States of America,Southampton,,0
+747,2,female,30,0,0,Finland,Southampton,10,1
+748,1,male,19,1,0,United States of America,Southampton,,0
+749,3,male,31,0,0,United States of America,Queenstown,,0
+750,2,female,4,1,1,United Kingdom,Southampton,14,1
+751,3,male,6,0,1,Russia,Southampton,14,1
+752,3,male,33,0,0,Belgium,Southampton,,0
+753,3,male,23,0,0,Bulgaria,Southampton,,0
+754,2,female,48,1,2,United Kingdom,Southampton,9,1
+755,2,male,1,1,1,United States of America,Southampton,4,1
+756,3,male,28,0,0,Sweden,Southampton,,0
+757,2,male,18,0,0,United Kingdom,Southampton,,0
+758,3,male,34,0,0,United Kingdom,Southampton,,0
+759,1,female,33,0,0,Canada,Southampton,8,1
+760,3,male,,0,0,United Kingdom,Southampton,,0
+761,3,male,41,0,0,Finland,Southampton,,0
+762,3,male,20,0,0,Lebanon,Cherbourg,15,1
+763,1,female,36,1,2,United States of America,Southampton,4,1
+764,3,male,16,0,0,Sweden,Southampton,,0
+765,1,female,51,1,0,United States of America,Cherbourg,10,1
+766,1,male,,0,0,United States of America,Cherbourg,,0
+767,3,female,30,0,0,Ireland,Queenstown,,0
+768,3,male,,1,0,Ireland,Queenstown,,0
+769,3,male,32,0,0,Norway,Southampton,,0
+770,3,male,24,0,0,Belgium,Southampton,,0
+771,3,male,48,0,0,United States of America,Southampton,,0
+772,2,female,57,0,0,United Kingdom,Southampton,,0
+773,3,male,,0,0,Lebanon,Cherbourg,,0
+774,2,female,54,1,3,United Kingdom,Southampton,4,1
+775,3,male,18,0,0,Sweden,Southampton,,0
+776,3,male,,0,0,Ireland,Queenstown,,0
+777,3,female,5,0,0,United States of America,Southampton,13,1
+778,3,male,,0,0,Ireland,Queenstown,,0
+779,1,female,43,0,1,United States of America,Southampton,2,1
+780,3,female,13,0,0,Lebanon,Cherbourg,C,1
+781,1,female,17,1,0,Canada,Southampton,3,1
+782,1,male,29,0,0,United States of America,Southampton,,0
+783,3,male,,1,2,United Kingdom,Southampton,,0
+784,3,male,25,0,0,Argentina,Southampton,,0
+785,3,male,25,0,0,United Kingdom,Southampton,,0
+786,3,female,18,0,0,Finland,Southampton,16,1
+787,3,male,8,4,1,Ireland,Queenstown,,0
+788,3,male,1,1,2,United Kingdom,Southampton,10,1
+789,1,male,46,0,0,France,Cherbourg,,0
+790,3,male,,0,0,Ireland,Queenstown,,0
+791,2,male,16,0,0,United Kingdom,Southampton,,0
+792,3,female,,8,2,United Kingdom,Southampton,,0
+793,1,male,,0,0,United States of America,Cherbourg,14,0
+794,3,male,25,0,0,Bulgaria,Southampton,,0
+795,2,male,39,0,0,United States of America,Southampton,,0
+796,1,female,49,0,0,United States of America,Southampton,8,1
+797,3,female,31,0,0,Croatia,Southampton,,1
+798,3,male,30,0,0,Lebanon,Cherbourg,,0
+799,3,female,30,1,1,Belgium,Southampton,,0
+800,2,male,34,0,0,United Kingdom,Southampton,,0
+801,2,female,31,1,1,United Kingdom,Southampton,14,1
+802,1,male,11,1,2,United States of America,Southampton,4,1
+803,3,male,1,0,1,Lebanon,Cherbourg,16,1
+804,3,male,27,0,0,United States of America,Southampton,15,1
+805,3,male,31,0,0,United States of America,Southampton,,0
+806,1,male,39,0,0,Ireland,Belfast,,0
+807,3,female,18,0,0,Sweden,Southampton,,0
+808,2,male,39,0,0,United Kingdom,Southampton,,0
+809,1,female,33,1,0,United States of America,Southampton,5,1
+810,3,male,26,0,0,United Kingdom,Southampton,,0
+811,3,male,39,0,0,United Kingdom,Southampton,,0
+812,2,male,35,0,0,United Kingdom,Southampton,,0
+813,3,female,6,4,2,Sweden,Southampton,,0
+814,3,male,30,0,0,Canada,Southampton,,0
+815,1,male,,0,0,United Kingdom,Southampton,,0
+816,3,female,23,0,0,Finland,Southampton,,0
+817,2,male,31,1,1,Canada,Cherbourg,,0
+818,3,male,43,0,0,Sweden,Southampton,,0
+819,3,male,10,3,2,Sweden,Southampton,,0
+820,1,female,52,1,1,Canada,Southampton,3,1
+821,3,male,27,0,0,Croatia,Southampton,15,1
+822,1,male,38,0,0,Netherlands,Southampton,,0
+823,3,female,27,0,1,Russia,Southampton,14,1
+824,3,male,2,4,1,Finland,Southampton,,0
+825,3,male,,0,0,Ireland,Queenstown,,0
+826,3,male,,0,0,China,Southampton,,0
+827,2,male,1,0,2,Canada,Cherbourg,10,1
+828,3,male,,0,0,United States of America,Queenstown,15,1
+829,1,female,62,0,0,United States of America,Southampton,6,1
+830,3,female,15,1,0,Lebanon,Cherbourg,C,1
+831,2,male,1,1,1,United Kingdom,Southampton,4,1
+832,3,male,,0,0,Lebanon,Cherbourg,,0
+833,3,male,23,0,0,Sweden,Southampton,,0
+834,3,male,18,0,0,United Kingdom,Southampton,,0
+835,1,female,39,1,1,United States of America,Cherbourg,14,1
+836,3,male,21,0,0,Slovenia,Southampton,,0
+837,3,male,,0,0,United Kingdom,Southampton,,0
+838,3,male,32,0,0,China,Southampton,C,1
+839,1,male,,0,0,France,Cherbourg,7,1
+840,3,male,20,0,0,Finland,Southampton,,0
+841,2,male,16,0,0,United Kingdom,Southampton,,0
+842,1,female,30,0,0,United States of America,Southampton,4,1
+843,3,male,34,0,0,Greece,Cherbourg,,0
+844,3,male,17,0,0,Croatia,Southampton,,0
+845,3,male,42,0,0,United States of America,Southampton,,0
+846,3,male,,8,2,United Kingdom,Southampton,,0
+847,3,male,35,0,0,Bulgaria,Southampton,,0
+848,2,male,28,0,1,United Kingdom,Southampton,,0
+849,1,female,,1,0,France,Cherbourg,5,1
+850,3,male,4,4,2,Sweden,Southampton,,0
+851,3,male,74,0,0,Sweden,Southampton,,0
+852,3,female,9,1,1,Lebanon,Cherbourg,,0
+853,1,female,16,0,1,France,Cherbourg,9,1
+854,2,female,44,1,0,United Kingdom,Southampton,,0
+855,3,female,18,0,1,United Kingdom,Southampton,13,1
+856,1,female,45,1,1,United States of America,Southampton,8,1
+857,1,male,51,0,0,Peru,Southampton,A,1
+858,3,female,24,0,3,Lebanon,Cherbourg,C,1
+859,3,male,,0,0,Lebanon,Cherbourg,,0
+860,3,male,41,2,0,United States of America,Southampton,,0
+861,2,male,21,1,0,United Kingdom,Southampton,,0
+862,1,female,48,0,0,United States of America,Southampton,8,1
+863,3,female,,8,2,United Kingdom,Southampton,,0
+864,2,male,24,0,0,United Kingdom,Southampton,,0
+865,2,female,42,0,0,United States of America,Southampton,,1
+866,2,female,27,1,0,Spain,Cherbourg,12,1
+867,1,male,31,0,0,United States of America,Southampton,,0
+868,3,male,,0,0,Belgium,Southampton,,0
+869,3,male,4,1,1,United States of America,Southampton,15,1
+870,3,male,26,0,0,Bosnia,Southampton,,0
+871,1,female,47,1,1,United States of America,Southampton,5,1
+872,1,male,33,0,0,United States of America,Southampton,,0
+873,3,male,47,0,0,Belgium,Southampton,,0
+874,2,female,28,1,0,Russia,Cherbourg,10,1
+875,3,female,15,0,0,Lebanon,Cherbourg,C,1
+876,3,male,20,0,0,Finland,Southampton,,0
+877,3,male,19,0,0,Bulgaria,Southampton,,0
+878,3,male,,0,0,Bulgaria,Southampton,,0
+879,1,female,56,0,1,United States of America,Cherbourg,7,1
+880,2,female,25,0,1,United States of America,Southampton,12,1
+881,3,male,33,0,0,Slovenia,Cherbourg,,0
+882,3,female,22,0,0,Sweden,Southampton,,0
+883,2,male,28,0,0,United Kingdom,Southampton,,0
+884,3,male,25,0,0,United Kingdom,Southampton,,0
+885,3,female,39,0,5,Ireland,Queenstown,,0
+886,2,male,27,0,0,Lithuania,Southampton,,0
+887,1,female,19,0,0,United States of America,Southampton,3,1
+888,3,female,,1,2,United Kingdom,Southampton,,0
+889,1,male,26,0,0,United States of America,Cherbourg,5,1
+890,3,male,32,0,0,Ireland,Queenstown,,0
+891,3,male,34,0,0,Ireland,Southampton,,0
+891,3,male,34,0,0,Ireland,Southampton,,0
+892,3,female,47,1,0,United Kingdom,Southampton,16,1
+893,2,male,62,0,0,Ireland,Queenstown,,0
+894,3,male,27,0,0,Switzerland,Southampton,,0
+895,3,female,22,1,1,Finland,Southampton,15,1
+896,3,male,14,0,0,Sweden,Southampton,13,1
+897,3,female,30,0,0,Ireland,Queenstown,,1
+897,3,female,30,0,0,Ireland,Queenstown,,0
+898,2,male,26,1,1,Thailand,Southampton,13,1
+899,3,female,18,0,0,Syria,Cherbourg,C,1
+900,3,male,21,2,0,United Kingdom,Southampton,,0
+901,3,male,,0,0,Bulgaria,Southampton,,0
+902,1,male,46,0,0,United States of America,Southampton,,0
+903,1,female,23,1,0,United States of America,Southampton,7,1
+904,2,male,63,1,0,United Kingdom,Southampton,,0
+905,1,female,47,1,0,United States of America,Southampton,4,1
+906,2,female,24,1,0,Italy,Cherbourg,11,1
+907,2,male,35,0,0,Ireland,Queenstown,,0
+908,3,male,21,0,0,Lebanon,Cherbourg,,0
+909,3,female,27,1,0,United States of America,Southampton,,0
+911,1,male,55,1,0,United States of America,Cherbourg,,0
+912,3,male,9,0,1,Norway,Southampton,13,1
+913,1,female,,0,0,United States of America,Cherbourg,7,1
+914,1,male,21,0,1,Switzerland,Cherbourg,A,1
+915,1,female,48,1,3,United States of America,Cherbourg,4,1
+916,3,male,50,1,0,United Kingdom,Southampton,,0
+917,1,female,22,0,1,United States of America,Southampton,5,1
+918,3,male,22,0,0,Syria,Cherbourg,,0
+919,1,male,41,0,0,United States of America,Southampton,,0
+920,3,male,,2,0,Lebanon,Cherbourg,,0
+921,2,male,50,1,0,United Kingdom,Southampton,,0
+922,2,male,24,2,0,United Kingdom,Southampton,,0
+923,3,female,33,1,2,United Kingdom,Southampton,10,1
+925,1,male,30,1,0,United States of America,Cherbourg,11,1
+927,3,female,,0,0,United Kingdom,Southampton,C,1
+928,3,female,21,0,0,Croatia,Southampton,,0
+929,3,male,25,0,0,Belgium,Southampton,11,1
+930,3,male,,0,0,China,Southampton,,1
+931,3,male,39,0,1,Slovenia,Southampton,15,1
+932,1,male,,0,0,United Kingdom,Southampton,,0
+933,3,male,41,0,0,Russia,Southampton,,0
+934,2,female,30,0,0,United States of America,Southampton,,0
+935,1,female,45,1,0,United States of America,Southampton,5,1
+936,3,male,25,0,0,Finland,Southampton,,0
+937,1,male,45,0,0,France,Cherbourg,7,1
+938,3,male,,0,0,Ireland,Queenstown,,0
+939,1,female,60,0,0,United States of America,Cherbourg,8,1
+941,1,male,24,1,0,United States of America,Cherbourg,,0
+942,2,male,27,0,0,United States of America,Southampton,,0
+944,1,female,28,3,2,Canada,Southampton,10,1
+945,2,male,,0,0,France,Cherbourg,,0
+946,3,male,10,4,1,Ireland,Queenstown,,0
+947,3,male,35,0,0,Croatia,Southampton,,0
+948,3,male,25,0,0,United States of America,Southampton,A,1
+949,3,male,,1,0,United Kingdom,Southampton,,0
+950,1,female,36,0,0,United States of America,Cherbourg,4,1
+951,3,male,17,0,0,Croatia,Southampton,,0
+952,2,male,32,0,0,Australia,Southampton,,0
+953,3,male,18,0,0,Sweden,Southampton,,0
+954,3,female,22,0,0,Ireland,Queenstown,13,1
+955,1,male,13,2,2,United States of America,Cherbourg,4,1
+956,2,female,,0,0,United States of America,Southampton,,0
+957,3,female,18,0,0,Ireland,Queenstown,,0
+958,1,male,47,0,0,United States of America,Southampton,,0
+959,1,male,31,0,0,United States of America,Cherbourg,7,1
+960,1,female,60,1,4,Canada,Southampton,10,1
+961,3,female,24,0,0,Ireland,Queenstown,15,1
+962,3,male,21,0,0,Bulgaria,Southampton,,0
+963,3,female,29,0,0,Finland,Southampton,,0
+964,1,male,28,0,0,Cuba,Cherbourg,,0
+965,1,female,35,0,0,United States of America,Southampton,4,1
+966,1,male,32,0,0,United States of America,Southampton,,0
+967,3,male,,0,0,United Kingdom,Southampton,,0
+968,1,female,55,2,0,United States of America,Southampton,2,1
+969,2,male,30,0,0,United States of America,Southampton,,0
+970,3,female,24,0,0,Ireland,Queenstown,,0
+971,3,male,6,1,1,Lebanon,Cherbourg,,0
+972,1,male,67,1,0,United States of America,Southampton,,0
+973,1,male,49,0,0,United Kingdom,Southampton,,0
+974,3,male,,0,0,Macedonia,Southampton,,0
+975,2,male,,0,0,Ireland,Queenstown,,0
+976,3,male,,1,0,Lebanon,Cherbourg,,0
+977,3,female,27,0,0,United States of America,Queenstown,,0
+978,3,female,18,0,0,United Kingdom,Southampton,C,1
+979,3,female,,0,0,Ireland,Queenstown,,0
+980,2,male,2,1,1,United Kingdom,Southampton,14,1
+981,3,female,22,1,0,United States of America,Southampton,16,1
+982,3,male,,0,0,Norway,Southampton,,0
+983,1,female,27,1,2,Canada,Southampton,3,1
+984,3,male,,0,0,United Kingdom,Southampton,,0
+985,1,male,25,0,0,Belgium,Cherbourg,,0
+986,3,male,25,0,0,Sweden,Southampton,13,1
+987,1,female,76,1,0,United Kingdom,Southampton,6,1
+988,3,male,29,0,0,Finland,Southampton,,0
+989,3,female,20,0,0,Sweden,Southampton,,0
+990,3,male,33,0,0,United Kingdom,Southampton,,0
+991,1,female,43,1,0,United States of America,Cherbourg,5,1
+992,2,male,27,1,0,United Kingdom,Southampton,,0
+993,3,male,,0,0,Ireland,Queenstown,,0
+994,3,male,26,0,0,Sweden,Southampton,15,1
+996,3,male,28,0,0,Norway,Southampton,,0
+997,3,male,21,0,0,Ireland,Queenstown,13,1
+998,3,male,,0,0,Ireland,Queenstown,14,1
+1000,2,male,18,0,0,Canada,Southampton,,0
+1001,2,male,41,0,0,United States of America,Southampton,,0
+1002,3,female,,0,0,Ireland,Queenstown,,1
+1003,1,female,36,0,0,United States of America,Cherbourg,,0
+1004,3,female,18,0,0,Ireland,Queenstown,,0
+1005,1,female,63,1,0,United States of America,Southampton,,0
+1006,3,male,18,1,0,Greece,Cherbourg,,0
+1008,3,female,1,1,1,Sweden,Southampton,13,1
+1009,1,male,36,0,0,Canada,Southampton,A,0
+1010,2,female,29,1,0,United Kingdom,Southampton,,0
+1011,2,female,12,0,0,United Kingdom,Southampton,9,1
+1012,3,male,,1,0,United States of America,Queenstown,,0
+1013,1,female,35,1,0,Germany,Southampton,11,1
+1014,3,male,28,0,0,United Kingdom,Southampton,,0
+1015,3,male,,0,0,Ireland,Queenstown,15,1
+1016,3,female,17,0,1,United Kingdom,Southampton,12,1
+1017,3,male,22,0,0,Sweden,Southampton,,0
+1018,3,female,,2,0,Ireland,Queenstown,16,1
+1019,2,male,42,0,0,United Kingdom,Southampton,,0
+1020,3,male,24,0,0,United Kingdom,Southampton,,0
+1021,3,male,32,0,0,United Kingdom,Southampton,,0
+1022,1,male,53,0,0,United States of America,Southampton,B,1
+1023,3,female,,0,4,France,Southampton,,0
+1024,3,male,,1,0,Lebanon,Cherbourg,,0
+1025,3,male,43,0,0,Bulgaria,Southampton,,0
+1026,3,male,24,0,0,Sweden,Southampton,,0
+1027,3,male,26,0,0,Turkey,Cherbourg,,0
+1028,2,male,26,0,0,United States of America,Southampton,,0
+1029,3,female,23,0,0,Belarus,Southampton,13,1
+1030,3,male,40,1,6,United Kingdom,Southampton,,0
+1031,3,female,10,5,2,United Kingdom,Southampton,,0
+1032,1,female,33,0,0,Canada,Southampton,8,1
+1033,1,male,61,1,3,United States of America,Cherbourg,,0
+1034,2,male,28,0,0,United Kingdom,Southampton,,0
+1036,3,male,31,3,0,Belgium,Southampton,,0
+1037,1,male,,0,0,United States of America,Southampton,,0
+1038,3,male,22,0,0,Wales,Southampton,,0
+1039,1,male,,0,0,United States of America,Southampton,,0
+1040,2,male,30,1,1,United States of America,Southampton,,0
+1042,3,male,,0,0,Bulgaria,Cherbourg,,0
+1043,3,male,60,0,0,United Kingdom,Southampton,,0
+1044,3,female,36,0,2,Sweden,Southampton,,0
+1045,3,male,13,4,2,Sweden,Southampton,,0
+1046,3,male,24,0,0,United Kingdom,Southampton,D,1
+1047,1,female,29,0,0,United States of America,Southampton,8,1
+1049,1,male,42,0,0,United Kingdom,Southampton,,0
+1050,3,female,26,0,2,United Kingdom,Southampton,,0
+1051,3,female,,0,0,Ireland,Queenstown,13,1
+1052,3,male,7,1,1,Lebanon,Cherbourg,C,1
+1053,2,female,26,0,0,United Kingdom,Southampton,9,1
+1054,3,male,,0,0,United Kingdom,Southampton,,0
+1055,2,male,41,0,0,Germany,Southampton,,0
+1056,3,female,26,1,1,Switzerland,Southampton,2,1
+1057,1,male,48,0,0,United States of America,Cherbourg,,0
+1058,3,male,18,2,2,United Kingdom,Southampton,,0
+1059,1,female,,0,0,United States of America,Cherbourg,5,1
+1060,3,female,22,0,0,Sweden,Southampton,C,1
+1061,3,male,,0,0,United Kingdom,Southampton,,0
+1062,3,male,27,0,0,Turkey,Cherbourg,,0
+1063,3,male,23,1,0,United States of America,Southampton,,0
+1064,3,male,,0,0,Syria,Cherbourg,,0
+1065,3,male,40,1,5,Sweden,Southampton,,0
+1066,2,female,15,0,2,South Africa,Southampton,14,1
+1067,2,female,20,0,0,United Kingdom,Southampton,11,1
+1068,1,male,54,1,0,United States of America,Cherbourg,1,1
+1069,2,female,36,0,3,India,Southampton,11,1
+1070,1,female,64,0,2,United States of America,Cherbourg,14,1
+1071,2,male,30,0,0,Canada,Southampton,,0
+1072,1,male,37,1,1,United States of America,Cherbourg,,0
+1073,1,female,18,1,0,United States of America,Southampton,10,1
+1074,3,male,,0,0,Ireland,Queenstown,,0
+1075,1,female,27,1,1,Canada,Cherbourg,6,1
+1076,2,male,40,0,0,United Kingdom,Southampton,,0
+1077,2,female,21,0,1,United Kingdom,Southampton,12,1
+1078,3,male,17,2,0,United Kingdom,Southampton,,0
+1079,3,female,,8,2,United Kingdom,Southampton,,0
+1080,2,male,40,0,0,United States of America,Southampton,,0
+1081,2,male,34,1,0,United Kingdom,Southampton,,0
+1082,1,male,,0,0,United States of America,Cherbourg,1,1
+1083,3,male,11,1,1,United Kingdom,Southampton,,0
+1084,2,male,61,0,0,United States of America,Southampton,,0
+1085,2,male,8,0,2,United States of America,Southampton,10,1
+1086,3,male,33,0,0,Sweden,Southampton,,0
+1087,1,male,6,0,2,United States of America,Cherbourg,3,1
+1088,3,female,18,0,0,Sweden,Southampton,D,1
+1089,2,male,23,0,0,United Kingdom,Southampton,,0
+1090,3,female,,0,0,Norway,Southampton,,0
+1091,3,female,,0,0,Ireland,Queenstown,16,1
+1092,3,male,1,0,2,Sweden,Southampton,,0
+1093,1,male,47,1,0,United States of America,Cherbourg,,0
+1094,2,female,8,1,1,United Kingdom,Southampton,11,1
+1095,2,male,25,0,0,United Kingdom,Southampton,,0
+1096,1,male,,0,0,France,Cherbourg,7,1
+1097,3,female,35,0,0,Ireland,Queenstown,,0
+1098,2,male,24,0,0,United Kingdom,Southampton,9,1
+1099,1,female,33,0,0,France,Cherbourg,11,1
+1100,3,male,25,0,0,Bosnia,Southampton,,0
+1101,3,male,32,0,0,Norway,Southampton,,0
+1102,3,male,,0,0,United States of America,Southampton,15,1
+1103,2,male,17,0,0,United Kingdom,Southampton,,0
+1104,2,female,60,1,0,United Kingdom,Southampton,,0
+1105,3,female,38,4,2,Sweden,Southampton,,0
+1106,1,male,42,0,0,United Kingdom,Southampton,,0
+1107,3,female,,0,0,Ireland,Queenstown,,0
+1108,1,male,57,1,1,United States of America,Southampton,,0
+1109,1,female,50,1,1,United States of America,Southampton,4,1
+1110,3,male,,0,0,United Kingdom,Southampton,,0
+1111,2,female,30,1,0,Spain,Cherbourg,12,1
+1112,3,male,21,0,0,United Kingdom,Southampton,,0
+1113,2,female,22,0,0,United Kingdom,Southampton,14,1
+1114,3,male,21,0,0,Sweden,Southampton,13,1
+1115,1,female,53,0,0,United States of America,Cherbourg,6,1
+1117,3,male,23,0,0,Sweden,Southampton,13,1
+1118,3,female,,0,0,Ireland,Queenstown,,0
+1119,3,male,40,0,0,United Kingdom,Southampton,,0
+1120,2,male,36,0,0,United Kingdom,Southampton,,0
+1121,2,male,14,0,0,United Kingdom,Southampton,,0
+1122,1,female,21,0,0,United States of America,Southampton,8,1
+1123,3,male,21,1,0,Finland,Southampton,,0
+1124,3,male,,0,0,Ireland,Queenstown,,0
+1125,1,male,39,1,0,United States of America,Cherbourg,,0
+1126,3,male,20,0,0,Sweden,Southampton,,0
+1127,1,male,64,1,0,United States of America,Cherbourg,,0
+1128,3,male,20,0,0,Lebanon,Cherbourg,,0
+1129,2,female,18,1,1,Finland,Southampton,,0
+1130,1,female,48,1,0,United States of America,Cherbourg,2,1
+1131,1,female,55,0,0,Sweden,Cherbourg,6,1
+1132,2,female,45,0,2,United Kingdom,Southampton,12,1
+1133,1,male,45,1,1,United States of America,Cherbourg,3,1
+1134,3,male,,0,0,United Kingdom,Southampton,C,1
+1136,1,male,41,1,0,United States of America,Southampton,,0
+1137,2,female,22,0,0,United States of America,Southampton,,0
+1138,2,male,42,1,1,United States of America,Southampton,,0
+1139,2,female,29,1,0,United Kingdom,Southampton,10,1
+1141,2,female,1,1,2,United Kingdom,Southampton,10,1
+1142,3,male,20,0,0,Finland,Southampton,15,1
+1143,1,male,27,1,0,United States of America,Cherbourg,,0
+1144,3,male,24,0,0,Sweden,Southampton,,0
+1145,3,male,32,0,0,Austria,Southampton,,0
+1146,3,male,,0,0,United Kingdom,Southampton,,0
+1147,3,male,,0,0,Ireland,Queenstown,,0
+1148,3,male,28,0,0,Sweden,Southampton,,0
+1149,2,female,19,0,0,United States of America,Southampton,12,1
+1150,3,male,21,0,0,Norway,Southampton,15,1
+1151,3,male,36,1,0,United States of America,Southampton,15,1
+1152,3,male,21,0,0,Sweden,Southampton,,0
+1154,3,female,1,1,1,Sweden,Southampton,,0
+1155,2,male,30,0,0,United States of America,Southampton,14,1
+1156,3,male,,0,0,Bulgaria,Southampton,,0
+1157,1,male,,0,0,Ireland,Belfast,,0
+1158,3,male,,0,0,United Kingdom,Southampton,,0
+1159,3,female,,0,0,United Kingdom,Southampton,C,1
+1160,3,male,17,0,0,Croatia,Southampton,,0
+1161,1,male,46,0,0,Canada,Southampton,,0
+1162,3,male,,0,0,Ireland,Queenstown,,0
+1163,1,female,26,1,0,United States of America,Cherbourg,4,1
+1164,3,female,,1,0,Ireland,Queenstown,,0
+1165,3,male,,0,0,Lebanon,Cherbourg,,0
+1166,2,female,20,1,0,Sweden,Southampton,12,1
+1167,2,male,28,0,0,United Kingdom,Southampton,,0
+1168,2,male,40,1,0,United Kingdom,Southampton,,0
+1169,2,male,30,1,0,United Kingdom,Southampton,,0
+1170,2,male,22,0,0,United Kingdom,Southampton,13,1
+1171,3,female,23,0,0,Croatia,Southampton,,0
+1172,3,male,1,1,1,United Kingdom,Southampton,,0
+1173,3,female,,0,0,Ireland,Queenstown,,0
+1174,3,female,9,1,1,Lebanon,Cherbourg,C,1
+1175,3,female,2,1,1,Finland,Southampton,,0
+1176,3,male,36,0,0,United Kingdom,Southampton,,0
+1177,3,male,,0,0,United Kingdom,Cherbourg,,0
+1178,1,male,24,1,0,United States of America,Southampton,7,1
+1179,3,male,,0,0,Turkey,Cherbourg,,0
+1180,3,male,,0,0,United Kingdom,Southampton,,0
+1181,1,male,,0,0,France,Southampton,A,1
+1183,3,male,,0,0,Lebanon,Cherbourg,,0
+1184,1,male,53,1,1,United States of America,Southampton,13,1
+1185,3,male,36,0,0,Belgium,Southampton,,0
+1186,3,male,26,0,0,Bulgaria,Southampton,,0
+1187,2,female,1,1,2,France,Cherbourg,14,1
+1188,3,male,,2,0,Lebanon,Cherbourg,,0
+1189,1,male,30,0,0,United Kingdom,Southampton,,0
+1190,3,male,29,0,0,United States of America,Southampton,,0
+1191,3,male,32,0,0,Sweden,Southampton,A,1
+1192,2,male,,0,0,France,Cherbourg,,0
+1193,2,male,43,0,1,United Kingdom,Southampton,,0
+1194,3,male,24,0,0,Croatia,Southampton,,0
+1196,1,female,64,1,1,United States of America,Southampton,7,1
+1197,1,male,30,1,2,Canada,Southampton,,0
+1198,3,male,1,0,1,United Kingdom,Southampton,11,1
+1199,1,male,55,1,1,Canada,Southampton,,0
+1200,3,female,45,1,0,United States of America,Southampton,11,1
+1201,3,male,18,0,0,Croatia,Southampton,,0
+1202,3,male,22,0,0,Turkey,Cherbourg,13,1
+1203,3,male,,0,0,United Kingdom,Southampton,,0
+1204,3,female,37,0,0,Ireland,Queenstown,,0
+1205,1,female,55,0,0,United States of America,Cherbourg,8,1
+1206,3,female,17,0,0,Ireland,Queenstown,,0
+1207,1,male,57,1,0,United States of America,Cherbourg,,0
+1208,2,male,19,0,0,United Kingdom,Southampton,,0
+1209,3,male,27,0,0,Sweden,Southampton,,0
+1210,2,male,22,2,0,United Kingdom,Southampton,,0
+1211,3,male,26,0,0,United States of America,Southampton,,0
+1212,3,male,25,0,0,Turkey,Cherbourg,10,1
+1213,2,male,26,0,0,United Kingdom,Southampton,,0
+1214,1,male,33,0,0,United Kingdom,Southampton,,0
+1215,1,female,39,0,0,United States of America,Southampton,2,1
+1216,3,male,23,0,0,Argentina,Southampton,,0
+1217,2,female,12,2,1,India,Southampton,13,1
+1219,2,male,29,1,0,United Kingdom,Southampton,,0
+1220,2,male,21,0,0,Sweden,Southampton,,0
+1221,2,female,48,0,2,United Kingdom,Southampton,14,1
+1222,1,male,39,0,0,United States of America,Cherbourg,,0
+1223,3,male,,0,0,Lebanon,Cherbourg,,0
+1225,3,male,27,0,0,Croatia,Southampton,,0
+1226,1,male,30,0,0,United States of America,Southampton,,0
+1227,2,male,32,0,0,Portugal,Southampton,,0
+1229,2,male,25,0,0,United Kingdom,Southampton,,0
+1230,3,male,,0,0,Lebanon,Cherbourg,,0
+1231,2,male,18,0,0,United Kingdom,Southampton,,0
+1232,3,male,32,0,0,Sweden,Southampton,15,1
+1233,3,male,,1,9,United Kingdom,Southampton,,0
+1234,1,female,58,0,1,United States of America,Cherbourg,3,1
+1235,3,male,,1,1,United Kingdom,Southampton,,0
+1236,3,female,16,0,0,Norway,Southampton,16,1
+1237,2,male,26,0,0,United States of America,Southampton,,0
+1238,3,female,38,0,0,United States of America,Cherbourg,C,1
+1239,2,male,24,0,0,United Kingdom,Southampton,,0
+1240,2,female,31,0,0,United Kingdom,Southampton,14,1
+1241,1,female,45,0,1,United States of America,Cherbourg,7,1
+1242,2,male,25,0,0,United Kingdom,Southampton,,0
+1243,2,male,18,0,0,United Kingdom,Southampton,,0
+1244,2,male,49,1,2,United Kingdom,Southampton,,0
+1246,1,male,50,0,0,United Kingdom,Southampton,,0
+1247,1,female,59,2,0,United States of America,Southampton,D,1
+1248,3,male,,0,0,United Kingdom,Southampton,,0
+1249,3,male,,0,0,Ireland,Queenstown,B,1
+1250,3,female,30,1,0,Sweden,Southampton,A,0
+1251,3,male,14,8,2,United Kingdom,Southampton,,0
+1252,2,female,24,1,1,Canada,Cherbourg,10,1
+1253,2,female,31,0,0,United Kingdom,Southampton,10,1
+1254,3,male,27,0,0,Croatia,Southampton,,0
+1255,1,female,25,1,0,United States of America,Cherbourg,5,1
+1256,3,female,,1,9,United Kingdom,Southampton,,0
+1257,3,male,,1,0,Syria,Cherbourg,,0
+1259,1,female,45,0,1,United States of America,Cherbourg,7,1
+1260,2,male,29,0,0,Spain,Cherbourg,9,1
+1261,2,male,21,1,0,United Kingdom,Southampton,,0
+1262,1,female,31,0,0,United States of America,Cherbourg,3,1
+1263,1,male,49,0,0,United Kingdom,Southampton,C,1
+1264,2,male,44,0,0,United States of America,Southampton,,0
+1265,1,female,54,1,1,United States of America,Southampton,5,1
+1266,1,female,45,0,0,United States of America,Cherbourg,4,1
+1267,3,female,22,2,0,Switzerland,Southampton,,0
+1269,1,male,55,0,0,United Kingdom,Southampton,,0
+1270,3,male,5,4,2,Sweden,Southampton,,0
+1271,3,male,,0,0,Ireland,Queenstown,,0
+1272,3,male,26,0,0,Ireland,Queenstown,,0
+1273,3,female,,0,0,South Africa,Southampton,,0
+1274,3,female,19,1,0,United Kingdom,Southampton,,0
+1276,2,female,24,1,2,United Kingdom,Southampton,9,1
+1277,3,male,24,0,0,Sweden,Southampton,,0
+1278,2,male,57,0,0,United States of America,Southampton,,0
+1279,3,male,21,0,0,Ireland,Queenstown,,0
+1280,3,male,6,3,1,Sweden,Southampton,,0
+1281,1,male,23,0,0,Canada,Southampton,,0
+1282,1,female,51,0,1,France,Cherbourg,9,1
+1283,3,male,13,0,2,United States of America,Southampton,,0
+1284,2,male,47,0,0,United Kingdom,Southampton,,0
+1285,3,male,29,3,1,Switzerland,Southampton,2,1
+1286,1,female,18,1,0,United States of America,Cherbourg,6,1
+1287,3,male,24,0,0,Ireland,Queenstown,,0
+1288,1,female,48,1,1,Switzerland,Cherbourg,5,1
+1289,3,male,22,0,0,Sweden,Southampton,,0
+1290,3,male,31,0,0,United States of America,Queenstown,,0
+1291,1,female,30,0,0,United States of America,Southampton,8,1
+1292,2,male,38,1,0,United Kingdom,Southampton,,0
+1293,1,female,22,0,1,United States of America,Cherbourg,7,1
+1294,1,male,17,0,0,Uruguay,Southampton,,0
+1295,1,male,43,1,0,United Kingdom,Southampton,5,1
+1297,2,male,23,1,0,United Kingdom,Southampton,,0
+1298,1,male,50,1,1,United States of America,Southampton,,0
+1300,3,female,3,1,1,United Kingdom,Southampton,,0
+1301,3,female,,0,0,Ireland,Queenstown,,0
+1302,1,female,37,1,0,United States of America,Southampton,14,1
+1303,3,female,28,0,0,Sweden,Southampton,,0
+1304,3,male,,0,0,United Kingdom,Southampton,,0
+1305,1,female,39,0,0,Spain,Cherbourg,8,1
+1306,3,male,38,0,0,Norway,Southampton,,0
+1307,3,male,,0,0,United Kingdom,Southampton,,0
+1308,3,male,,1,1,Syria,Cherbourg,D,1
