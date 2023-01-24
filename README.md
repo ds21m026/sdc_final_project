@@ -3,7 +3,7 @@
 
 ### Aufgabenstellung:
 - Teil 1 der Projektabgabe: Visualisierung und visuelle Auswertung eines Datensets, wie inhaltlich vorgetragen
-- Teil 2 der Projektabgabe: Bereitstellung eines ML Modells via REST API, das kann sein Computer Vision, Objekt Classification , inkl. auto matisiertem Deployment
+- Teil 2 der Projektabgabe: Bereitstellung eines ML Modells via REST API, das kann sein Computer Vision, Objekt Classification , inkl. automatisiertem Deployment
 ----------------------------------------------
 
 ### Milestones:
