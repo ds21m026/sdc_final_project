@@ -163,7 +163,6 @@ fig_kde2 = sns.kdeplot(
 )
 fig_kde2.set(ylabel=None)
 fig_kde2.set(title='Passenger Class 2')
-sns.move_legend(fig_kde2, 1, fontsize=10, facecolor='none', title='Survived', labelcolor='grey')
 
 plt.figure()
 fig_kde3 = sns.kdeplot(
