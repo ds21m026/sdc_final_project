@@ -24,9 +24,9 @@ Die FastAPI sollte in einem neuen Terminal mittels:
 
 `uvicorn api:api --reload`
 
-gestartet werden. Alternativ ist es auch möglich den Docker Container von Dockerhub zu holen und mit:
+gestartet werden. Alternativ ist es auch möglich den Docker Container von Dockerhub unter https://hub.docker.com/r/ds21m026/sdc_final_project_streamlit zu holen und mit:
 
-`docker run`
+`docker run ds21m026/sdc_final_project_streamlit`
 
 zu starten.
 
