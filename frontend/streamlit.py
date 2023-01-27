@@ -208,7 +208,7 @@ with middle_column:
     # button to call the api
     if st.button("Get prediction"):
         # post request to the API
-        r = requests.post(url="http://0.0.0.0:8000/predict/", data=dataJSON)
+        r = requests.post(url="http://backend:8000/predict/", data=dataJSON)
 
         # get result from api
         st.write("Your chance to survive based on the information in %: ", r.text)

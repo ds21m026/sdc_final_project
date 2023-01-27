@@ -50,7 +50,7 @@ def predict_proba(data: TitanicData):
 
     # load the Random Forest Classifier
     # pickle file from https://github.com/tlary/Kaggle_Titanic
-    with open("./rfSimple.pkl", 'rb') as file:
+    with open("./models/rfSimple.pkl", 'rb') as file:
         rf = pickle.load(file)
 
     # make predictions
