@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  frontend:
+    container_name: dashboard
+    build:
+      context: frontend/
+      dockerfile: Dockerfile
+    command: 
+      "streamlit run streamlit.py --server.port 8501"
+    ports:
+      - "8501:8501"
+    networks:
+      - default
+      
+  backend:
+    container_name: model_api
+    build:
+      context: backend/
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    networks:
+      - default
+  
+networks:
+  default:
