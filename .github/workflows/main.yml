@@ -27,7 +27,7 @@ jobs:
           # Log out from the Docker registry at the end of a job. Default true
           logout: false
   
-    - name: Build and push Docker images
+      - name: Build and push Docker images
         uses: docker/build-push-action@v3.2.0
         with:
           push: true
