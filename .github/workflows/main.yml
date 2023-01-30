@@ -31,7 +31,7 @@ jobs:
         uses: docker/build-push-action@v3.2.0
         with:
           push: true
-          tags: index.docker.io/ds21m026/sdc_project-main:latest
+          tags: index.docker.io/ds21m026/sdc_project-main:backend
           file: ./backend/Dockerfile
           
 
