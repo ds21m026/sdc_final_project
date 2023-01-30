@@ -1,4 +1,4 @@
-version: '3.8'
+version: '3.3'
 
 services:
   frontend:
@@ -6,6 +6,7 @@ services:
     build:
       context: frontend/
       dockerfile: Dockerfile
+    image: ds21m026/frontend
     command: 
       "streamlit run streamlit.py --server.port 8501"
     ports:
@@ -18,6 +19,7 @@ services:
     build:
       context: backend/
       dockerfile: Dockerfile
+    image: ds21m026/backend
     ports:
       - "8000:8000"
     networks:
