@@ -32,6 +32,6 @@ jobs:
         with:
           push: true
           tags: index.docker.io/ds21m026/sdc_project-main:latest
-          file: ./docker-compose.yml
+          file: ./backend/Dockerfile
           
 
