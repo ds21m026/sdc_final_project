@@ -26,7 +26,14 @@ jobs:
           password: ${{ secrets.dockerhub_password }}
           # Log out from the Docker registry at the end of a job. Default true
           logout: false
-      
+  
+      - name: Build and push Docker images
+        uses: docker/build-push-action@v3.2.0
+        with:
+          push: true
+          tags: index.docker.io/ds21m026/sdc_project-main_frontend:latest
+          file: ./frontend/Dockerfile
+          
       - name: Build and push Docker images
         uses: docker/build-push-action@v3.2.0
         with:
@@ -34,9 +41,4 @@ jobs:
           tags: index.docker.io/ds21m026/sdc_project-main_backend:latest
           file: ./backend/Dockerfile
           
-      - name: Build and push Docker images
-        uses: docker/build-push-action@v3.2.0
-        with:
-          push: true
-          tags: index.docker.io/ds21m026/sdc_project-main_frontend:latest
-          file: ./frontend/Dockerfile
+
