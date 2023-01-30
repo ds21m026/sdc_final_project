@@ -31,12 +31,12 @@ jobs:
         uses: docker/build-push-action@v3.2.0
         with:
           push: true
-          tags: index.docker.io/ds21m026/sdc_final_project_streamlit:latest
-          file: ./Dockerfile_streamlit
+          tags: index.docker.io/ds21m026/sdc_project-main_backend:latest
+          file: ./backend/Dockerfile
           
       - name: Build and push Docker images
         uses: docker/build-push-action@v3.2.0
         with:
           push: true
-          tags: index.docker.io/ds21m026/sdc_final_project_fastapi:latest
-          file: ./Dockerfile_fastapi
+          tags: index.docker.io/ds21m026/sdc_project-main_frontend:latest
+          file: ./frontend/Dockerfile
