@@ -31,14 +31,7 @@ jobs:
         uses: docker/build-push-action@v3.2.0
         with:
           push: true
-          tags: index.docker.io/ds21m026/sdc_project-main_frontend:latest
-          file: ./frontend/Dockerfile
-          
-      - name: Build and push Docker images
-        uses: docker/build-push-action@v3.2.0
-        with:
-          push: true
-          tags: index.docker.io/ds21m026/sdc_project-main_backend:latest
-          file: ./backend/Dockerfile
+          tags: index.docker.io/ds21m026/sdc_project-main:latest
+          file: ./docker-compose.yml
           
 
